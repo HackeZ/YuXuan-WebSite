@@ -1,0 +1,14 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+# baseurl = "http://replace-this-with-your-hugo-site.com/"
+
+languageCode = "zh-CN"
+title = "肇庆御轩寝室"
+theme = "hugo-hikari-theme"
+
+[params]
+    name = "HackerZ"
+    description = "这是肇庆御轩寝室官方出品的微网站"
+    copyright = "基于 HUGO - 由 [HackerZ](https://www.github.com/HackeZ) 开发 - 肇庆御轩寝室出品©"
+
+    pageNotFoundTitle = "找不到该页面！"
+    pageNotFoundSubtitle = "很抱歉，服务器无法响应您请求的页面！"
