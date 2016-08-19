@@ -12,3 +12,37 @@ theme = "hugo-hikari-theme"
 
     pageNotFoundTitle = "找不到该页面！"
     pageNotFoundSubtitle = "很抱歉，服务器无法响应您请求的页面！"
+
+[params.offcanvas]
+    title = "肇庆御轩寝室"
+    bio = "广东省肇庆市芙蓉西一街19号第7卡御轩寝室"
+    subscribe = "联系电话："
+    followme = "经营范围"
+
+    ####  联系电话  ####
+    [[params.offcanvas.subscribeinfo]]
+        phonenumber = "0758-2828329"
+    [[params.offcanvas.subscribeinfo]]
+        phonenumber = "18023623483"
+    
+
+
+    ####  经营范围  ####
+    [[params.offcanvas.socialnetworks]]
+        name = "全棉四件套"
+        url = "#"
+    [[params.offcanvas.socialnetworks]]
+        name = "宫廷蚊帐"
+        url = "#"
+    [[params.offcanvas.socialnetworks]]
+        name = "枕头/枕头套"
+        url = "#"
+    [[params.offcanvas.socialnetworks]]
+        name = "丝绵被"
+        url = "#"
+    [[params.offcanvas.socialnetworks]]
+        name = "贡缎提花六件套"
+        url = "#"
+    [[params.offcanvas.socialnetworks]]
+        name = "更多产品实物请到店查看..."
+        url = "#"
